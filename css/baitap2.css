@@ -1,0 +1,15 @@
+.contai{
+    padding: 3px;
+    border-right: 2px solid rgb(255, 254, 254);
+}
+li:hover{
+    color: rgba(255, 0, 0, 0.942);
+}
+.title{
+    width: 100%;
+}
+.title3{
+    display: flex;
+    flex-direction: row     ;
+    padding-bottom: 100px;
+}
